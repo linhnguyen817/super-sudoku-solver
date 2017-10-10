@@ -1,8 +1,8 @@
 PROJECT NAME: Super Sudoku Solver
 
-DESCRIPTION: This sudoku solver uses bifurcation to quickly solve any sudoku puzzles, regardless of how "evil" they may be...
+DESCRIPTION: This sudoku solver uses both bifurcation and non-bifurcation algorithms to quickly solve any sudoku puzzles, regardless of how "evil" they may be...
 
-MOTIVATION: This project is for a high school independent study computer science class in discrete mathematics and functional programming. It comes from the Chapter 4 extended example section of Thomas VanDrunen's Discrete Mathematics and Functional Programming textbook.
+MOTIVATION: This project is for a high school independent study computer science class in discrete mathematics and functional programming. It comes from the Chapter 4 extended example section of Thomas VanDrunen's Discrete Mathematics and Functional Programming textbook. This project emphasizes recursion, user-defined data types, and bifurcation in Standard ML.
 
 INSTALLATION: Download SuperSudokuSolver.sml and open it using a SML IDE such as Notepad++ or Sublime Text. To execute code online, https://www.tutorialspoint.com/execute_smlnj_online.php would be a good option.
 
